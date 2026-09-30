@@ -1,0 +1,6 @@
+{
+  "name": "Medical Information Agent Colab Studio",
+  "description": "Interactive Google Colab generator and runner for Medical Information Agent with LangChain, Groq, RAG, Budget Tool, and Gradio UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
