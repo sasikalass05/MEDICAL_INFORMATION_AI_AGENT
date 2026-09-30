@@ -1,6 +1,6 @@
 # 🏥 Medical Information AI Agent
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent%20(3).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent.ipynb)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-sasikalass05%2FMEDICAL__INFORMATION__AI__AGENT-181717.svg?logo=github)](https://github.com/sasikalass05/MEDICAL_INFORMATION_AI_AGENT)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![Groq](https://img.shields.io/badge/Groq-openai%2Fgpt--oss--120b-orange.svg)](https://groq.com)
@@ -16,10 +16,10 @@ An autonomous clinical healthcare AI agent designed to run in **Google Colab** a
 
 Click either link below to launch and run the agent immediately in Google Colab:
 
-- 🚀 **Direct Colab Link:** [https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent%20(3).ipynb](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent%20(3).ipynb)
+- 🚀 **Direct Colab Link:** [https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent.ipynb](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent.ipynb)
 - 📌 **Interactive Badge:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent%20(3).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent.ipynb)
 
 > **How to Run in Colab:**
 > 1. Click the link above to open the notebook.
@@ -79,10 +79,9 @@ Click either link below to launch and run the agent immediately in Google Colab:
 
 ## 🚀 Quick Start in Google Colab
 
-1. Open **[Google Colab](https://colab.research.google.com)**.
-2. Click **Upload** and upload `medical_information_agent.ipynb` from this repository.
-3. In Colab's menu, select **Runtime ➔ Run all** (`Ctrl + F9`).
-4. Scroll to the last cell to interact with the Gradio UI directly in the notebook or click the generated public link!
+1. Open the [Direct Colab Link](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent.ipynb).
+2. In Colab's menu, select **Runtime ➔ Run all** (`Ctrl + F9`).
+3. Scroll to the last cell to interact with the Gradio UI directly in the notebook or click the generated public link!
 
 ---
 
@@ -118,7 +117,7 @@ The Gradio web interface will launch at `http://127.0.0.1:7860` with a shareable
 
 | File | Description |
 | :--- | :--- |
-| `medical_information_agent.ipynb` | Fully runnable, self-contained Google Colab Jupyter Notebook |
+| `medical_information_agent.ipynb` | Fully runnable Google Colab Jupyter Notebook |
 | `main.py` | Standalone Python script for local and cloud execution |
 | `requirements.txt` | Python library dependencies |
 | `README.md` | Documentation and architecture overview |
