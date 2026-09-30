@@ -14,11 +14,17 @@ An autonomous clinical healthcare AI agent designed to run in **Google Colab** a
 
 ## ⚡ Direct 1-Click Launch in Google Colab
 
-Click the badge below to open the notebook directly in Google Colab:
+Click either link below to launch and run the agent immediately in Google Colab:
+
+- 🚀 **Direct Colab Link:** [https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent%20(3).ipynb](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent%20(3).ipynb)
+- 📌 **Interactive Badge:**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sasikalass05/MEDICAL_INFORMATION_AI_AGENT/blob/main/medical_information_agent%20(3).ipynb)
 
-> **Quick Run:** In Google Colab, simply click **Runtime ➔ Run all** (`Ctrl + F9`). The notebook will automatically generate the medical reference guide, build the FAISS vector index, connect to Groq, and launch your Gradio interface with a live public link!
+> **How to Run in Colab:**
+> 1. Click the link above to open the notebook.
+> 2. Select **Runtime ➔ Run all** (`Ctrl + F9`).
+> 3. Scroll to the last cell to view your live **Gradio UI** and click the public `.gradio.live` link!
 
 ---
 
